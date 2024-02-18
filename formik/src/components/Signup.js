@@ -51,7 +51,7 @@ function Signup() {
           <br></br>
           <br></br>
 
-          <label htmlFor="email">Confirm Password </label>
+          <label htmlFor="email">Confirm Passwordd </label>
           <input
             name="passwordConfirm"
             value={values.passwordConfirm}
